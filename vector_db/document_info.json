@@ -1,0 +1,16 @@
+[
+    {
+        "document": "Implementasi Vision Transformer untuk Klasifikasi Citra Histopatologi Kanker Paru-Paru dengan Interpretasi Grad-CAM.pdf",
+        "pages": 126
+    },
+    {
+        "document": "artikel 3 A_Survey_on_Vision_Transformer.pdf",
+        "pages": 24,
+        "chunks": 236
+    },
+    {
+        "document": "artikel 6 Transformers_for_Vision_A_Survey_on_Innovative_Methods_for_Computer_Vision.pdf",
+        "pages": 28,
+        "chunks": 214
+    }
+]

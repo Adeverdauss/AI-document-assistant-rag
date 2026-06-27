@@ -1,0 +1,7 @@
+[
+    {
+        "question": "dataset apa yang digunakan?",
+        "answer": "Dataset yang digunakan dalam penelitian ini adalah LC25000. Dataset ini merupakan kumpulan citra histopatologi digital paru-paru dan usus besar yang dikembangkan oleh [10]. LC25000 berisi total 25.000 citra hasil augmentasi dari 750 citra asli lung dan 500 citra colon. Dataset ini memiliki lima kelas utama: lung Adenocarcinoma, lung Squamous Cell Carcinoma, benign lung tissue, colon Adenocarcinoma, dan benign colon tissue. LC25000 juga sering dipakai untuk membandingkan performa CNN dan ViT pada tugas klasifikasi histopatologi.",
+        "similarity": 0.6237
+    }
+]
