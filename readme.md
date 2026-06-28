@@ -261,17 +261,10 @@ What is the research objective?
 
 # 📸 Screenshots
 
-## Home
-
-> Add screenshot here
-
 ## 🏠 Home
 
 ![Home](assets/home.png)
 
-## Upload PDF
-
-> Add screenshot here
 
 ## 📄 Upload PDF
 
@@ -279,7 +272,6 @@ What is the research objective?
 
 ## Chat
 
-> Add screenshot here
 
 ## 💬 Question Answering
 
