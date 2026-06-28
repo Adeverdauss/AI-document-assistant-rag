@@ -294,7 +294,7 @@ What is the research objective?
 
 # 👨‍💻 Author
 
-**Ade Verdaus Saputra*
+**Ade Verdaus Saputra**
 
 GitHub:
 
