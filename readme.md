@@ -265,31 +265,25 @@ What is the research objective?
 
 > Add screenshot here
 
-```
+## 🏠 Home
 
-assets/home.png
-
-```
+![Home](assets/home.png)
 
 ## Upload PDF
 
 > Add screenshot here
 
-```
+## 📄 Upload PDF
 
-assets/upload.png
-
-```
+![Upload](assets/upload.png)
 
 ## Chat
 
 > Add screenshot here
 
-```
+## 💬 Question Answering
 
-assets/chat.png
-
-```
+![Chat](assets/chat.png)
 
 ---
 
